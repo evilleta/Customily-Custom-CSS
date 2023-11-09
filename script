@@ -1,0 +1,5 @@
+/* Written and added by Erick VIlleta of I Build Awesome Website */
+#cl_optionsapp .swatch-container, #cl_optionsapp .cl-color-picker-container {    
+    flex-wrap: unset !important;
+    overflow-x: scroll !important;
+    }
